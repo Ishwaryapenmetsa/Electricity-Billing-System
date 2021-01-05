@@ -12,7 +12,6 @@ public class calculate_bill extends JFrame implements ActionListener{
 	JLabel l1,l2,l3,l4,l5;
 	Choice c1,c2;
 	JTextField t1;
-	String change;
 	
 	calculate_bill(){
 		
